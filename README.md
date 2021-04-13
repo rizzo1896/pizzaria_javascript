@@ -1,2 +1,2 @@
 # pizzaria_javascript
-Projeto para treinar as habilidades de manipulação com javascript
+Projeto para treinar as habilidades de manipulação DOM com javascript.
